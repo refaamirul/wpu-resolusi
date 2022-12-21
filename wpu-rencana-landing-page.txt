@@ -3,6 +3,7 @@ RENCANA LANDING PAGE WPU
 - Javascript
   * ES6
   * Framework Javascript
+- Struktur Data Dasar
 - React JS
 - HTML & CSS
 - TAILWIND
