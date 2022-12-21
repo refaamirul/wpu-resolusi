@@ -1,0 +1,8 @@
+RENCANA LANDING PAGE WPU
+
+- Javascript
+- React JS
+- HTML & CSS
+- TAILWIND
+- Interview
+- Website
