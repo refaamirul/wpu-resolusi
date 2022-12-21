@@ -1,0 +1,10 @@
+RENCANA LANDING PAGE WPU
+
+- Javascript
+  * ES6
+  * Framework Javascript
+- React JS
+- HTML & CSS
+- TAILWIND
+- Interview
+- Website
