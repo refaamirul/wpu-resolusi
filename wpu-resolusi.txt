@@ -1,6 +1,6 @@
 WPU Resolusi
 - Konsisten untuk membuat portfolio 2x seminggu
-- Membuat platform untuk pengelolaan video
+- Membuat berita dalam bentuk Website
 - Membuat forum diskusi
 - Membuat Portfolio and Website Landing Page
 - Kolaborasi dengan lebih banyak expert
