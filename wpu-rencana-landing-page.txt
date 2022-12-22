@@ -8,6 +8,8 @@ RENCANA LANDING PAGE WPU
 - PHP Framework
   ^ Laravel
 - React JS
+- PHP Frameworks
+  ^ Laravel
 - HTML & CSS
 - TAILWIND
 - Interview
