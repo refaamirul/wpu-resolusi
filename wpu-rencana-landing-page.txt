@@ -3,8 +3,10 @@ RENCANA LANDING PAGE WPU
 - Javascript
   * ES6
   * Framework Javascript
-   ^ Angular
-   ^ React
+    ^ Vue
+- Struktur Data Dasar
+- PHP Framework
+  ^ Laravel
 - React JS
 - PHP Frameworks
   ^ Laravel
@@ -12,3 +14,4 @@ RENCANA LANDING PAGE WPU
 - TAILWIND
 - Interview
 - Website
+- Phyton
